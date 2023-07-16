@@ -21,10 +21,10 @@ body{
 }
 
 .contact_and_links{
-    font-size:16px;
+    font-size:12px;
     text-align:center;
-    color: rgb(99, 99, 99);
-    width:50%;
+    color: rgb(69,69,69);
+    width:25%;
     font-style:italic
 }
 
@@ -39,6 +39,7 @@ body{
     display: flex;
     flex-direction:column;
     margin:1px;
+    margin-right:3px;
 }
 .other_exp{
     width:31%;
@@ -67,12 +68,12 @@ body{
 
 .employer{
     font-size:18px;
-    color:rgb(99, 99, 99);
+    color:rgb(69,69,69);
 }
 
 .job_info{
     font-size:14px;
-    color:rgb(99, 99, 99);
+    color:rgb(69,69,69);
 }
 
 ul{
@@ -102,5 +103,5 @@ li{
 
 .rhs_date{
     font-size:12px;
-    color: rgb(99, 99, 99)
+    color: rgb(69,69,69)
 }
